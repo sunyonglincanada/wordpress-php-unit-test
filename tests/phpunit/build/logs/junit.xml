@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="1" assertions="1" failures="0" errors="0" time="0.004571">
+    <testsuite name="default" tests="1" assertions="1" failures="0" errors="0" time="0.004571">
+      <testsuite name="SampleTest" file="C:\Users\eric.sun\Codes\github\wordpress-php-unit-test\tests\phpunit\tests\sample.php" tests="1" assertions="1" failures="0" errors="0" time="0.004571">
+        <testcase name="test_trailingslashit_should_add_slash_when_none_is_present" class="SampleTest" file="C:\Users\eric.sun\Codes\github\wordpress-php-unit-test\tests\phpunit\tests\sample.php" line="16" assertions="1" time="0.004571"/>
+      </testsuite>
+    </testsuite>
+    <testsuite name="restapi-autosave" tests="0" assertions="0" failures="0" errors="0" time="0.000000"/>
+  </testsuite>
+</testsuites>
